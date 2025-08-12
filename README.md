@@ -1,3 +1,3 @@
-# Course Store Template
+# Git test
 
-Template for Django course
+course for git
